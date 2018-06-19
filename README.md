@@ -1,4 +1,4 @@
-# [Linear Discriminate Analysis(LDA) ](https://en.wikipedia.org/wiki/Linear_discriminant_analysis) using python 
+# [Linear Discriminant Analysis(LDA) ](https://en.wikipedia.org/wiki/Linear_discriminant_analysis) using python 
 
    
 ### Prerequisites
