@@ -36,7 +36,7 @@ The things that you must have a decent knowledge on:
 ```
 ### Explanation 
 
-* We are performing the the **dimensionality reduction**  using [Linear Discriminate Analysis(LDA) ](https://en.wikipedia.org/wiki/Linear_discriminant_analysis. 
+* We are performing the the **dimensionality reduction**  using [Linear Discriminate Analysis(LDA) ](https://en.wikipedia.org/wiki/Linear_discriminant_analysis). 
  * Here we are performing the operations on the [IRIS Dataset](https://archive.ics.uci.edu/ml/datasets/iris)
      
 
@@ -91,5 +91,5 @@ The things that you must have a decent knowledge on:
 
 ## License
 
-This project is licensed under the **MIT** License - see the [LICENSE.md](https://github.com/syamkakarla98/Kernel-PCA-Using-Different-Kernels-With-Classification/blob/master/LICENSE.md)
+This project is licensed under the **MIT** License - see the [LICENSE.md](https://github.com/syamkakarla98/Linear-Discriminate-Analysis-Using-Python/blob/master/LICENSE.md)
 
