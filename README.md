@@ -70,24 +70,23 @@ The things that you must have a decent knowledge on:
        
    * The **Classification Accuracy(C.A)** before **LDA** is shown below:
    
-       ![ca_after_lda](https://user-images.githubusercontent.com/36328597/41587278-737d495a-73cc-11e8-9b75-5c578bb30d34.PNG)
+       ![ca_after_lda](https://user-images.githubusercontent.com/36328597/41589092-3b6fe59a-73d1-11e8-851c-eca09f6079d8.PNG)
 
 
-
-   * The classification of the dataset *_before_* **Kernel PCA** is:
+   * The classification of the dataset _before_ and _after_  **Linear Discriminate Analysis(LDA)** is:
    
       | Dataset | Accuracy | Execution Time|
       | :---         |     :---:      |          ---: |
-      | Before LDA   | 100     | 0.00200009346    |
-      | After LDA     | 100       | 0.0020003318      |
+      | Before LDA   | 95.5555     | 0.004000425338    |
+      | After LDA     | 97.7777       | 0.0040001869201      |
    
 
 ### Conclusion 
 
-   * By performing **KPCA** with three different kernels (linear,rbf,polynomial) on the iris data set.
+   * Hence performed the **Linear Discriminate Analysis(LDA)** on the iris data set.
    * since, the initial two Principal Components(PC'S) has more variance ratio. we selected two only.
    * Initially the dataset contains the dimensions **150 X 5** is drastically reduced to **150 X 3** dimensions including label.
-   * The classification has varied a lot according to the kernel choosen.
+   * The classification is improved and the execution times decreased a little bit after dimensionality reduction using Linear Discriminate Analysis(LDA).
    
 
 ## License
