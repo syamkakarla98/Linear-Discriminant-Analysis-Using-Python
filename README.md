@@ -56,7 +56,7 @@ The things that you must have a decent knowledge on:
 
 
 
-   * The dimensionally reduced file is saved to [iris_after_LDA.csv]https://github.com/syamkakarla98/Linear-Discriminate-Analysis-Using-Python/blob/master/iris_after_LDA.csv).
+   * The dimensionally reduced file is saved to [iris_after_LDA.csv](https://github.com/syamkakarla98/Linear-Discriminate-Analysis-Using-Python/blob/master/iris_after_LDA.csv).
  
 
    
