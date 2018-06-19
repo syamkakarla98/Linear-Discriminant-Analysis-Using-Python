@@ -70,7 +70,7 @@ The things that you must have a decent knowledge on:
        
    * The **Classification Accuracy(C.A)** before **LDA** is shown below:
    
-       ![ca_after_lda](https://user-images.githubusercontent.com/36328597/41589092-3b6fe59a-73d1-11e8-851c-eca09f6079d8.PNG)
+       ![ca _after_lda](https://user-images.githubusercontent.com/36328597/41589718-d3c7d590-73d2-11e8-9e87-1fd197ff0e18.PNG)
 
 
    * The classification of the dataset _before_ and _after_  **Linear Discriminate Analysis(LDA)** is:
